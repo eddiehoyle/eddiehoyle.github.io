@@ -8,7 +8,9 @@ tags: maya plugin
 finished: true
 ---
 
-Screenspace 0.1.0 has been released! [Grab the source here.](https://github.com/eddiehoyle/screenspace/releases/tag/v0.1.0)
+Screenspace 0.1.0 has been released!
+
+[Grab the source here](https://github.com/eddiehoyle/screenspace/releases/tag/v0.1.0).
 
 This version comes with a fresh batch of features and a few bug fixes.
 
